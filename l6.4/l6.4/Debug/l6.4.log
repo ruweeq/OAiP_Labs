@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Jane\Desktop\the main\201-723\ввп\лаб6\l6.4\l6.4\Source.cpp(9,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  l6.4.vcxproj -> C:\Users\Jane\Desktop\the main\201-723\ввп\лаб6\l6.4\Debug\l6.4.exe
