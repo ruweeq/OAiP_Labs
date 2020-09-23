@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Jane\Desktop\the main\201-723\ввп\лаб6\l6.7\l6.7\Source.cpp(15,7): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  l6.7.vcxproj -> C:\Users\Jane\Desktop\the main\201-723\ввп\лаб6\l6.7\Debug\l6.7.exe
