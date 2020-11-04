@@ -1,0 +1,5 @@
+﻿  4.cpp
+  5.cpp
+  Создание кода...
+5.obj : error LNK2005: _main уже определен в 4.obj
+C:\Users\Jane\Desktop\the main\201-723\ввп\лаб12\l12\Debug\l12.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
